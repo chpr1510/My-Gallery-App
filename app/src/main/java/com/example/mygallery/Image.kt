@@ -8,4 +8,6 @@ class Image {
         this.imagePath = imagePath
         this.imageNmae = imageNmae
     }
+    constructor()
+    {}
 }
